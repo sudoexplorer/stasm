@@ -1,1 +1,1 @@
-Url: "https://sudoexplorer.github.io/stasm"
+Url: https://sudoexplorer.github.io/stasm
